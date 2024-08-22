@@ -1,8 +1,8 @@
 {
-  "name": "cms",
+  "name": "the-city-cms",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "1.0.0",
+  "description": "TheCity CMS",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
